@@ -1,5 +1,6 @@
 # DavisOS
 Tribute to Terry
+(My 3rd attempt at trying to make this repository)
 
 ## Features
 
